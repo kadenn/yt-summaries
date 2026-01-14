@@ -1,24 +1,8 @@
 # YouTube Video Summaries
 
-A collection of detailed summaries from insightful YouTube videos.
+A collection of detailed summaries from insightful YouTube videos. Each summary includes key insights, practical applications, and structured breakdowns of the main concepts.
 
-## 📚 Available Summaries
-
-### [How To Win Friends & Influence People](./how-to-win-friends-summary.md)
-
-**Author:** Dale Carnegie
-A comprehensive breakdown of the classic book covering fundamental techniques for handling people, making people like you, winning people to your way of thinking, and leadership principles. Includes actionable strategies for building better relationships and influencing others positively.
-
-### [When You Stop Explaining Yourself, Everything Changes](./when-you-stop-explaining-yourself-jung.md)
-
-**Based on:** Carl Jung's psychology
-An exploration of how compulsive self-explanation stems from childhood emotional wounds, and how developing internal authority transforms relationships and self-perception. Covers the path to psychological integrity and authentic living.
-
-### [4 Business Models That Will Thrive with AI](./4-business-models-ai-thrive.md)
-
-**Topic:** Business strategy and AI integration
-Detailed analysis of four business models that become more profitable with AI: consulting, technical agencies, boring service businesses, and SaaS. Covers the "secret ingredient" of building a founder brand (Key Person of Influence) that's 20x more powerful than business brands, plus strategies for building and selling these businesses.
-
----
-
-Each summary includes key insights, practical applications, and structured breakdowns of the main concepts.
+AI Summary Prompt:
+```text
+Summarize the following transcript in a clear and concise way. Capture all the key insights, arguments, and takeaways while removing filler. Break the summary into well-structured bullet points or sections by theme/topic. The goal is to help me understand everything important without reading the whole transcript. Think like a researcher or note-taker summarizing for someone smart but busy. Keep the summary accurate, complete, and easy to scan.
+```
